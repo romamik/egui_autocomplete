@@ -468,7 +468,6 @@ dependencies = [
 name = "egui_autocomplete"
 version = "7.0.0"
 dependencies = [
- "eframe",
  "egui",
  "fuzzy-matcher",
  "serde",
